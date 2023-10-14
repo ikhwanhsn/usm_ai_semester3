@@ -1,5 +1,5 @@
 # Kecerdasan Buatan
 
-Nama  : Ikhwanul Husna\n
-NIM   : G.211.22.0034
+Nama  : Ikhwanul Husna</br>
+NIM   : G.211.22.0034</br>
 Kelas : B3
